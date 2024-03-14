@@ -4,8 +4,8 @@ Halo saya Hilmy Raihan dari prodi Teknologi Informasi disini saya mengikuti PORO
 
 ## 🌿 Navigasi Branch
 
-- **Week-1**: Mini Proyek Pertama 🚀
-- **Week-2**: Mini Proyek Kedua 🌟
+- **Week-1**: Mini Project Pertama 🚀
+- **Week-2**: Mini Project Kedua 🌟
 - **Week-3**: -
 
 ## 📝 Deskripsi Proyek
