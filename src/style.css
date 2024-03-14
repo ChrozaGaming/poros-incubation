@@ -25,10 +25,10 @@
     flex: 1;
 }
 
-.card1 { background-color: #FFD700; } /* Yellow */
-.card2 { background-color: #40E0D0; } /* Blue */
-.card3 { background-color: #FF69B4; } /* Pink */
-.card4 { background-color: #FFA07A; } /* Orange */
+.card1 { background-color: #FFD700; }
+.card2 { background-color: #40E0D0; }
+.card3 { background-color: #FF69B4; }
+.card4 { background-color: #FFA07A; }
 
 @media (max-width: 450px) {
     .container {
@@ -40,7 +40,7 @@
     }
 
     .card-small {
-        width: 100%; /* This will make the cards stack vertically and take the full width */
+        width: 100%;
         margin-bottom: 10px;
     }
 }
